@@ -1,7 +1,8 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 ```
 
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Program to implement the the Logistic Regression
+Model to Predict the Placement Status of Student.
 Developed by: Rajalakshmi R
 RegisterNumber: 212223110037
 
