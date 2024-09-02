@@ -79,7 +79,6 @@ print("\nPredictions: \n", Y_pred[:5]) # Print first 5 predictions
 ## Output:
 
 
-![image](https://github.com/user-attachments/assets/befa6d47-c484-4c28-bbc1-9c2902e5f824)
 
 ![image](https://github.com/user-attachments/assets/d5440996-7f77-487e-a12f-dece8a9fec9c)
 
