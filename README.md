@@ -1,12 +1,5 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-```
 
-Program to implement the the Logistic Regression
-Model to Predict the Placement Status of Student.
-Developed by: Rajalakshmi R
-RegisterNumber: 212223110037
-
-```
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
@@ -24,6 +17,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Program:
 ```
+/*
+Program to implement the the Logistic Regression
+Model to Predict the Placement Status of Student.
+Developed by: Rajalakshmi R
+RegisterNumber: 212223110037
+*/
+
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
